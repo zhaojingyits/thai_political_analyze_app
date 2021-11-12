@@ -1,0 +1,42 @@
+{
+    "user_name": "byarena",
+    "user_full_name": "ale",
+    "top_tweets":30,
+    "key_words":[
+        {
+            "word_name":"\u0e08\u0e19",
+            "rank":120
+        },
+        {
+            "word_name":"\u0e21\u0e31\u0e49\u0e22",
+            "rank":80
+        },
+        {
+            "word_name":"\u0e19\u0e30\u0e04\u0e30",
+            "rank":30
+        }
+    ],
+    "user_indexes_value":[
+        {
+            "mark_name":"涉政关键词指数",
+            "mark_description":"该用户常用词汇包含多少涉政词汇。",
+            "mark_rank":6,
+            "full_mark":10,
+            "mark_result":"该用户讨论政治内容较多。"
+        },
+        {
+            "mark_name":"发推频率",
+            "mark_description":"该用户该用户平均每天发送多少推文。",
+            "mark_rank":3,
+            "full_mark":24,
+            "mark_result":"平均每天发送3篇。"
+        },
+        {
+            "mark_name":"推文倾向性",
+            "mark_description":"该用户涉政推文中有多少涉及政治讨论。",
+            "mark_rank":72,
+            "full_mark":83,
+            "mark_result":"该用户发表的大多数涉政推文是政治讨论，有明显倾向性。"
+        }
+    ]
+}

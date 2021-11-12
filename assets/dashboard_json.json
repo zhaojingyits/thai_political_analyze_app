@@ -1,0 +1,742 @@
+{
+  "datetime": "2021-02-19 00:00:00",
+  "continue_hours": 12,
+  "user_interface_language": "zh-CN",
+  "details": {
+    "tweets_count": 10904,
+    "tweets_count_variance": 8427,
+    "retweet": 1817467,
+    "retweet_variance": 1644928,
+    "favorite": 333321,
+    "favorite_variance": 284891,
+    "reply": 6609,
+    "reply_variance": 5263,
+    "quote": 8294,
+    "quote_variance": 7479,
+    "hashtag": 5401,
+    "hashtag_variance": 4426,
+    "verified": 305,
+    "verified_variance": 242,
+    "media": 1315,
+    "media_variance": 770,
+    "length_avg": 115.89682685253118,
+    "length_avg_variance": -18.995785178151095,
+    "topics": [
+      {
+        "word": "\u0e1b\u0e23\u0e30\u0e17\u0e49\u0e27\u0e07",
+        "translated": "null",
+        "rank": 3446
+      },
+      {
+        "word": "\u0e2d\u0e20\u0e34\u0e1b\u0e23\u0e32\u0e22",
+        "translated": "null",
+        "rank": 2810
+      },
+      {
+        "word": "\u0e17\u0e2b\u0e32\u0e23",
+        "translated": "null",
+        "rank": 2642
+      },
+      {
+        "word": "\u0e21\u0e31\u0e19",
+        "translated": "null",
+        "rank": 2378
+      },
+      {
+        "word": "\u0e44\u0e27\u0e49\u0e27\u0e32\u0e07\u0e43\u0e08",
+        "translated": "null",
+        "rank": 2223
+      },
+      {
+        "word": "\u0e15\u0e33\u0e23\u0e27\u0e08",
+        "translated": "null",
+        "rank": 2102
+      },
+      {
+        "word": "\u0e04\u0e19",
+        "translated": "null",
+        "rank": 1894
+      },
+      {
+        "word": "\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07",
+        "translated": "null",
+        "rank": 1664
+      },
+      {
+        "word": "\u0e46",
+        "translated": "null",
+        "rank": 1623
+      },
+      {
+        "word": "\u0e15\u0e31\u0e4b\u0e27",
+        "translated": "null",
+        "rank": 1502
+      },
+      {
+        "word": "\u0e21\u0e47\u0e2d\u0e1a",
+        "translated": "null",
+        "rank": 1437
+      },
+      {
+        "word": "\u0e19\u0e30",
+        "translated": "null",
+        "rank": 1404
+      },
+      {
+        "word": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07",
+        "translated": "null",
+        "rank": 1342
+      },
+      {
+        "word": "\u0e0a\u0e49\u0e32\u0e07",
+        "translated": "null",
+        "rank": 1284
+      },
+      {
+        "word": "\u0e1e\u0e39\u0e14",
+        "translated": "null",
+        "rank": 1147
+      },
+      {
+        "word": "\u0e2d\u0e35",
+        "translated": "null",
+        "rank": 1114
+      },
+      {
+        "word": "\u0e01\u0e29\u0e31\u0e15\u0e23\u0e34\u0e22\u0e4c",
+        "translated": "null",
+        "rank": 1098
+      },
+      {
+        "word": "\u0e21\u0e36\u0e07",
+        "translated": "null",
+        "rank": 1089
+      },
+      {
+        "word": "\u0e1e\u0e27\u0e01",
+        "translated": "null",
+        "rank": 1077
+      },
+      {
+        "word": "\u0e44\u0e21\u0e49",
+        "translated": "null",
+        "rank": 1045
+      },
+      {
+        "word": "\u0e40\u0e2b\u0e35\u0e49\u0e22",
+        "translated": "null",
+        "rank": 1016
+      },
+      {
+        "word": "\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e0a\u0e19",
+        "translated": "null",
+        "rank": 950
+      },
+      {
+        "word": "\u0e19\u0e35\u0e48",
+        "translated": "null",
+        "rank": 874
+      },
+      {
+        "word": "\u0e1f\u0e31\u0e07",
+        "translated": "null",
+        "rank": 868
+      },
+      {
+        "word": "\u0e01\u0e39",
+        "translated": "null",
+        "rank": 837
+      },
+      {
+        "word": "\u0e40\u0e2d\u0e32",
+        "translated": "null",
+        "rank": 828
+      },
+      {
+        "word": "\u0e2a\u0e20\u0e32",
+        "translated": "null",
+        "rank": 819
+      },
+      {
+        "word": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+        "translated": "null",
+        "rank": 801
+      },
+      {
+        "word": "\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19",
+        "translated": "null",
+        "rank": 786
+      },
+      {
+        "word": "\u0e2d\u0e30",
+        "translated": "null",
+        "rank": 745
+      },
+      {
+        "word": "\u0e04\u0e48\u0e30",
+        "translated": "null",
+        "rank": 732
+      },
+      {
+        "word": "\u0e42\u0e23\u0e21",
+        "translated": "null",
+        "rank": 712
+      },
+      {
+        "word": "\u0e01\u0e38",
+        "translated": "null",
+        "rank": 707
+      },
+      {
+        "word": "\u0e23\u0e39\u0e49",
+        "translated": "null",
+        "rank": 664
+      },
+      {
+        "word": "\u0e43\u0e04\u0e23",
+        "translated": "null",
+        "rank": 651
+      },
+      {
+        "word": "\u0e41\u0e21\u0e48",
+        "translated": "null",
+        "rank": 648
+      },
+      {
+        "word": "\u0e42\u0e14\u0e19",
+        "translated": "null",
+        "rank": 638
+      },
+      {
+        "word": "\u0e41\u0e04\u0e48",
+        "translated": "null",
+        "rank": 622
+      },
+      {
+        "word": "\u0e44\u0e17\u0e22",
+        "translated": "null",
+        "rank": 581
+      },
+      {
+        "word": "\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e18\u0e34\u0e1b\u0e44\u0e15\u0e22",
+        "translated": "null",
+        "rank": 576
+      },
+      {
+        "word": "\u0e43\u0e0a\u0e48",
+        "translated": "null",
+        "rank": 569
+      },
+      {
+        "word": "\u0e08\u0e23\u0e34\u0e07\u0e46",
+        "translated": "null",
+        "rank": 543
+      },
+      {
+        "word": "\u0e2d\u0e48\u0e30",
+        "translated": "null",
+        "rank": 527
+      },
+      {
+        "word": "\u0e40\u0e04\u0e49\u0e32",
+        "translated": "null",
+        "rank": 523
+      },
+      {
+        "word": "\u0e25\u0e30",
+        "translated": "null",
+        "rank": 520
+      },
+      {
+        "word": "\u0e07",
+        "translated": "null",
+        "rank": 519
+      },
+      {
+        "word": "\u0e04\u0e38\u0e13",
+        "translated": "null",
+        "rank": 516
+      },
+      {
+        "word": "\u0e14\u0e35",
+        "translated": "null",
+        "rank": 511
+      },
+      {
+        "word": "\u0e2b\u0e23\u0e2d",
+        "translated": "null",
+        "rank": 499
+      },
+      {
+        "word": "\u0e2d\u0e34",
+        "translated": "null",
+        "rank": 496
+      },
+      {
+        "word": "\u0e04\u0e23\u0e31\u0e1a",
+        "translated": "null",
+        "rank": 493
+      },
+      {
+        "word": "\u0e1a\u0e2d\u0e01",
+        "translated": "null",
+        "rank": 493
+      },
+      {
+        "word": "\u0e17\u0e33\u0e44\u0e21",
+        "translated": "null",
+        "rank": 489
+      },
+      {
+        "word": "\u0e07\u0e07",
+        "translated": "null",
+        "rank": 486
+      },
+      {
+        "word": "\u0e14\u0e39",
+        "translated": "null",
+        "rank": 476
+      },
+      {
+        "word": "\u0e44\u0e23",
+        "translated": "null",
+        "rank": 468
+      },
+      {
+        "word": "\u0e08\u0e23\u0e34\u0e07",
+        "translated": "null",
+        "rank": 468
+      },
+      {
+        "word": "\u0e44\u0e2b\u0e19",
+        "translated": "null",
+        "rank": 465
+      },
+      {
+        "word": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+        "translated": "null",
+        "rank": 460
+      },
+      {
+        "word": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19",
+        "translated": "null",
+        "rank": 435
+      },
+      {
+        "word": "\u0e1e\u0e39\u0e14\u0e16\u0e36\u0e07",
+        "translated": "null",
+        "rank": 432
+      },
+      {
+        "word": "\u0e2b\u0e21\u0e14",
+        "translated": "null",
+        "rank": 416
+      },
+      {
+        "word": "\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+        "translated": "null",
+        "rank": 415
+      },
+      {
+        "word": "\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e25",
+        "translated": "null",
+        "rank": 415
+      },
+      {
+        "word": "\u0e02\u0e19\u0e32\u0e14",
+        "translated": "null",
+        "rank": 411
+      },
+      {
+        "word": "\u0e43\u0e0a\u0e49",
+        "translated": "null",
+        "rank": 408
+      },
+      {
+        "word": "\u0e04\u0e34\u0e14",
+        "translated": "null",
+        "rank": 396
+      },
+      {
+        "word": "\u0e08\u0e19",
+        "translated": "null",
+        "rank": 395
+      },
+      {
+        "word": "\u0e2d\u0e2d\u0e01\u0e21\u0e32",
+        "translated": "null",
+        "rank": 394
+      },
+      {
+        "word": "\u0e1e\u0e2d",
+        "translated": "null",
+        "rank": 373
+      },
+      {
+        "word": "\u0e2d\u0e22\u0e48\u0e32",
+        "translated": "null",
+        "rank": 369
+      },
+      {
+        "word": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07",
+        "translated": "null",
+        "rank": 367
+      },
+      {
+        "word": "\u0e21\u0e31\u0e49\u0e22",
+        "translated": "null",
+        "rank": 366
+      },
+      {
+        "word": "\u0e14\u0e48\u0e32",
+        "translated": "null",
+        "rank": 356
+      },
+      {
+        "word": "\u0e19\u0e30\u0e04\u0e30",
+        "translated": "null",
+        "rank": 345
+      },
+      {
+        "word": "\u0e23\u0e35",
+        "translated": "null",
+        "rank": 338
+      },
+      {
+        "word": "\u0e23\u0e30\u0e1a\u0e1a",
+        "translated": "null",
+        "rank": 336
+      },
+      {
+        "word": "\u0e27\u0e30",
+        "translated": "null",
+        "rank": 336
+      },
+      {
+        "word": "\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19",
+        "translated": "null",
+        "rank": 325
+      },
+      {
+        "word": "\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49",
+        "translated": "null",
+        "rank": 324
+      },
+      {
+        "word": "\u0e1a\u0e2d",
+        "translated": "null",
+        "rank": 320
+      },
+      {
+        "word": "\u0e1a\u0e49\u0e32\u0e07",
+        "translated": "null",
+        "rank": 314
+      },
+      {
+        "word": "\u0e40\u0e22\u0e2d\u0e30",
+        "translated": "null",
+        "rank": 313
+      },
+      {
+        "word": "\u0e44\u0e07",
+        "translated": "null",
+        "rank": 302
+      },
+      {
+        "word": "\u0e40\u0e01\u0e48\u0e07",
+        "translated": "null",
+        "rank": 302
+      },
+      {
+        "word": "\u0e19\u0e32\u0e22",
+        "translated": "null",
+        "rank": 299
+      },
+      {
+        "word": "\u0e04\u0e30",
+        "translated": "null",
+        "rank": 298
+      },
+      {
+        "word": "\u0e22\u0e31\u0e07\u0e44\u0e07",
+        "translated": "null",
+        "rank": 296
+      },
+      {
+        "word": "\u0e1a\u0e49\u0e32\u0e19",
+        "translated": "null",
+        "rank": 291
+      },
+      {
+        "word": "\u0e22\u0e38\u0e48\u0e07",
+        "translated": "null",
+        "rank": 280
+      },
+      {
+        "word": "\u0e2b\u0e19\u0e49\u0e32",
+        "translated": "null",
+        "rank": 280
+      },
+      {
+        "word": "\u0e22\u0e34\u0e48\u0e07",
+        "translated": "null",
+        "rank": 278
+      },
+      {
+        "word": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49",
+        "translated": "null",
+        "rank": 273
+      },
+      {
+        "word": "\u0e40\u0e19\u0e35\u0e48\u0e22",
+        "translated": "null",
+        "rank": 263
+      },
+      {
+        "word": "\u0e17\u0e38\u0e01\u0e04\u0e19",
+        "translated": "null",
+        "rank": 260
+      },
+      {
+        "word": "\u0e27\u0e07\u0e01\u0e32\u0e23",
+        "translated": "null",
+        "rank": 258
+      },
+      {
+        "word": "\u0e08\u0e1a",
+        "translated": "null",
+        "rank": 253
+      },
+      {
+        "word": "\u0e1e\u0e35\u0e48",
+        "translated": "null",
+        "rank": 253
+      },
+      {
+        "word": "\u0e01\u0e38\u0e21\u0e20\u0e32",
+        "translated": "null",
+        "rank": 253
+      },
+      {
+        "word": "\u0e02\u0e48\u0e32\u0e27",
+        "translated": "null",
+        "rank": 251
+      },
+      {
+        "word": "\u0e44\u0e2b\u0e21",
+        "translated": "null",
+        "rank": 248
+      }
+    ],
+    "general_evaluation": "\u6839\u636e\u6700\u8fd13\u5929\u7684\u8206\u60c5\u60c5\u51b5\uff0c\u63a8\u6587\u6570\u91cf\u6807\u51c6\u5dee\u4e3a2994.39\uff0c\u8be5\u503c\u8f83\u5927\uff0c\u8bf4\u660e\u8fd1\u65e5\u8206\u60c5\u70ed\u5ea6\u6570\u636e\u7684\u79bb\u6563\u5ea6\u8f83\u5927\u3002\u8fd1\u65e5\u8206\u60c5\u70ed\u5ea6\u5448\u4e00\u5b9a\u5e45\u5ea6\u4e0a\u6da8\u3002\u5e73\u5747\u63a8\u6587\u6570\u662f4843.33\uff0c\u8be5\u503c\u5904\u4e8e\u6b63\u5e38\u6c34\u5e73\u3002\u8206\u60c5\u9ad8\u5cf0\u51fa\u73b0\u57282021-02-19 00:00:00\u3002\u6700\u5927\u503c\u4e3a\u5e73\u5747\u503c\u76842.25\u500d\uff0c\u8fd9\u534a\u5929\u5185\uff0c\u63a8\u6587\u603b\u6570\u8fbe\u5230\u4e8610904\u3002\u5e73\u5747\u8f6c\u53d1\u91cf\u662f459250.16\uff0c\u8be5\u503c\u8f83\u5927\u3002\u5e73\u5747\u70b9\u8d5e\u91cf\u662f97604.33\uff0c\u8be5\u503c\u8f83\u5927\uff0c\u8bf4\u660e\u8fd1\u65e5\u8ba8\u8bba\u6d89\u534e\u5185\u5bb9\u6570\u91cf\u8f83\u591a\u3002\u8ba8\u8bba\u63a8\u6587\u7684\u6bd4\u4f8b\u5e73\u5747\u662f0.8567\u3002\uff0c\u8be5\u503c\u5904\u4e8e\u6b63\u5e38\u6c34\u5e73\u3002\u6d89\u534e\u63a8\u6587\u5e73\u5747\u6570\u91cf\u662f7.83\uff0c\u8be5\u503c\u76f8\u6bd4\u4e8e\u4e00\u5e74\u6765\u603b\u4f53\u7684\u5e73\u5747\u503c\uff08\u8f83\u5927/\u8f83\u5c0f\uff09\u3002\u8be5\u503c\u8f83\u5c0f\uff0c\u8bf4\u660e\u8fd1\u65e5\u8ba8\u8bba\u6d89\u534e\u5185\u5bb9\u6570\u91cf\u8f83\u5c11\u3002",
+    "prediction": [
+      {
+        "predict_item": "\u4e0b\u4e2a\u534a\u5929\u53d1\u63a8\u53d8\u5316\u8d8b\u52bf",
+        "predict_value": "\u57fa\u672c\u7a33\u5b9a",
+        "former_value": null,
+        "former_key": null,
+        "description": null
+      },
+      {
+        "predict_item": "下个半天发帖量",
+        "predict_value": "6301",
+        "former_value": [6100,8521,6210,10904],
+        "former_key": ["2021-02-17 12:00:00","2021-02-18 00:00:00","2021-02-18 12:00:00","2021-02-19 00:00:00"],
+        "description": "预测下个半天发帖量"
+      }
+    ],
+    "china_related": {
+      "count": 8,
+      "pages": 4,
+      "one_page_count": 2,
+      "tweets_page": {
+        "datetime": "2021-02-19 00:00:00",
+        "continue_hours": 12,
+        "topic": "china_related",
+        "page_number": 1,
+        "sorted_by": "retweet",
+        "page_content": [
+          {
+            "created_at": "2021-02-19 06:40:03",
+            "id_str": "1362653152219066375",
+            "conversation_id_str": "1362653152219066375",
+            "full_text": "\ud83d\udc6e\ud83c\udffb\u201c\u0e15\u0e33\u0e23\u0e27\u0e08\u201d \u0e19\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e40\u0e23\u0e35\u0e22\u0e01\u0e27\u0e48\u0e32 \ud83d\udc6e\ud83c\udffb\u200d\u2640\ufe0f\u8b66\u5bdf j\u01d0ngch\u00e1 \u0e04\u0e19\u0e08\u0e35\u0e19\u0e22\u0e31\u0e07\u0e40\u0e23\u0e35\u0e22\u0e01\u0e15\u0e33\u0e23\u0e27\u0e08\u0e27\u0e48\u0e32 \ud83d\udc6e\ud83c\udffb\u200d\u2642\ufe0f\u6761\u5b50 ti\u00e1ozi  \u0e44\u0e14\u0e49\u0e2d\u0e35\u0e01\u0e14\u0e49\u0e27\u0e22 \ud83e\udd17\u0e43\u0e04\u0e23\u0e21\u0e35\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e08\u0e35\u0e19\u0e25\u0e2d\u0e07\u0e40\u0e2d\u0e32\u0e44\u0e1b\u0e43\u0e0a\u0e49\u0e14\u0e39\u0e19\u0e49\u0e32 \n\n#\u0e41\u0e2a\u0e25\u0e07\u0e08\u0e35\u0e19 #\u0e04\u0e33\u0e08\u0e35\u0e19",
+            "lang": "th",
+            "favorited": false,
+            "retweeted": false,
+            "retweet_count": 43,
+            "favorite_count": 34,
+            "reply_count": 0,
+            "quote_count": 1,
+            "quoted_status_id_str": "",
+            "quoted_status_short_url": "",
+            "quoted_status_expand_url": "",
+            "user_id_str": "943448463718547456",
+            "user_name": "chineseuptoyou",
+            "user_full_name": "\u6211\u4eec\u4e00\u8d77\u6765\u5b66\u4e60\u6c49\u8bed\uff01",
+            "user_verified": false,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id_str": "",
+            "hashtags": [
+              "#\u0e41\u0e2a\u0e25\u0e07\u0e08\u0e35\u0e19",
+              "#\u0e04\u0e33\u0e08\u0e35\u0e19"
+            ],
+            "urls": [],
+            "media": []
+          },
+          {
+            "created_at": "2021-02-19 08:42:50",
+            "id_str": "1362684055108481027",
+            "conversation_id_str": "1362684055108481027",
+            "full_text": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e23\u0e32\u0e30\u0e1a\u0e32\u0e07\u0e23\u0e2d\u0e07\u0e21\u0e32\u0e08\u0e32\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e08\u0e35\u0e19\u0e01\u0e47\u0e04\u0e37\u0e2d\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e01\u0e29\u0e31\u0e15\u0e23\u0e34\u0e22\u0e4c\u0e44\u0e17\u0e22\u0e19\u0e35\u0e48\u0e41\u0e2b\u0e25\u0e30 \u0e41\u0e15\u0e30\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 \u0e41\u0e15\u0e30\u0e17\u0e35\u0e1e\u0e34\u0e0b\u0e0b\u0e48\u0e32\u0e2a\u0e48\u0e07\u0e21\u0e32\u0e2b\u0e32\u0e16\u0e36\u0e07\u0e17\u0e35\u0e48",
+            "lang": "th",
+            "favorited": false,
+            "retweeted": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "reply_count": 0,
+            "quote_count": 0,
+            "quoted_status_id_str": "",
+            "quoted_status_short_url": "",
+            "quoted_status_expand_url": "",
+            "user_id_str": "3301459897",
+            "user_name": "myc_112",
+            "user_full_name": "Yamanaka Shikanosuke",
+            "user_verified": false,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id_str": "",
+            "hashtags": [],
+            "urls": [],
+            "media": []
+          }
+        ]
+      }
+    },
+    "classify_analyze_result": {
+      "news_count": 1289,
+      "discussion_count": 9615,
+      "news_page_count": 645,
+      "discussion_page_count": 4808,
+      "news_page": {
+        "datetime": "2021-02-19 00:00:00",
+        "continue_hours": 12,
+        "topic": "news",
+        "page_number": 1,
+        "sorted_by": "retweet",
+        "page_content": [
+          {
+            "created_at": "2021-02-19 06:52:31",
+            "id_str": "1362656291210989569",
+            "conversation_id_str": "1362656291210989569",
+            "full_text": "\u0e40\u0e2b\u0e35\u0e49\u0e22\u0e2a\u0e38\u0e14 \u0e15\u0e33\u0e23\u0e27\u0e08 100 \u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e42\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22\u0e04\u0e37\u0e2d\u0e42\u0e14\u0e19\u0e40\u0e2d\u0e32\u0e44\u0e1b\u0e25\u0e07\u0e42\u0e17\u0e29 9 \u0e40\u0e14\u0e37\u0e2d\u0e19 (\u0e25\u0e32\u0e2d\u0e2d\u0e01\u0e01\u0e48\u0e2d\u0e19\u0e44\u0e1b 3 \u0e04\u0e19\u0e40\u0e2b\u0e25\u0e37\u0e2d 97 \u0e04\u0e19) \u0e1e\u0e2d\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e01\u0e47\u0e42\u0e14\u0e19\u0e14\u0e2d\u0e07\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e17\u0e33\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e08\u0e30\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e40\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07\u0e44\u0e14\u0e49\u0e08\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e17\u0e33\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d \u201c\u0e02\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e40\u0e21\u0e15\u0e15\u0e32\u201d \u0e15\u0e48\u0e2d \u0e1c\u0e1a\u0e15\u0e23 \u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e17\u0e33\u0e07\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e43\u0e0a\u0e49 \u0e1b\u0e0a\u0e0a \u0e40\u0e2b\u0e35\u0e49\u0e22\u0e41\u0e1a\u0e1a \u0e42\u0e04\u0e15\u0e23\u0e40\u0e2b\u0e35\u0e49\u0e22",
+            "lang": "th",
+            "favorited": false,
+            "retweeted": false,
+            "retweet_count": 42257,
+            "favorite_count": 4481,
+            "reply_count": 20,
+            "quote_count": 70,
+            "quoted_status_id_str": "",
+            "quoted_status_short_url": "",
+            "quoted_status_expand_url": "",
+            "user_id_str": "130801952",
+            "user_name": "chiikksama",
+            "user_full_name": "wr \ud83d\udcae",
+            "user_verified": false,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id_str": "",
+            "hashtags": [],
+            "urls": [],
+            "media": []
+          },
+          {
+            "created_at": "2021-02-19 06:45:49",
+            "id_str": "1362654606648430593",
+            "conversation_id_str": "1362654606648430593",
+            "full_text": "\u0e1f\u0e31\u0e07\u0e04\u0e38\u0e13\u0e42\u0e23\u0e21\u0e44\u0e25\u0e1f\u0e4c\u0e2a\u0e14\u0e41\u0e25\u0e49\u0e27\u0e41\u0e1a\u0e1a\u0e2b\u0e14\u0e2b\u0e39\u0e48\u0e2a\u0e31\u0e2a\u0e46 \u0e15\u0e33\u0e23\u0e27\u0e08 100 \u0e04\u0e19\u0e17\u0e35\u0e48\u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e1d\u0e36\u0e01\u0e40\u0e02\u0e49\u0e32\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23 #\u0e15\u0e31\u0e4b\u0e27\u0e0a\u0e49\u0e32\u0e07 \u0e40\u0e2d\u0e32\u0e44\u0e1b\u0e25\u0e07\u0e42\u0e17\u0e29 \u0e42\u0e14\u0e22\u0e2d\u0e49\u0e32\u0e07\u0e27\u0e48\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23\u0e18\u0e33\u0e23\u0e07\u0e27\u0e34\u0e19\u0e31\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e27\u0e25\u0e32 9 \u0e40\u0e14\u0e37\u0e2d\u0e19 \u0e1e\u0e2d\u0e1e\u0e49\u0e19 9 \u0e40\u0e14\u0e37\u0e2d\u0e19\u0e41\u0e25\u0e49\u0e27\u0e01\u0e47\u0e14\u0e2d\u0e07\u0e22\u0e28\u0e40\u0e02\u0e32 \u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e01\u0e32\u0e23\u0e07\u0e32\u0e19\u0e44\u0e21\u0e48\u0e02\u0e22\u0e31\u0e1a\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e02\u0e31\u0e14\u0e43\u0e08\u0e43\u0e04\u0e23\u0e1a\u0e32\u0e07\u0e04\u0e19 \u0e08\u0e19\u0e21\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e40\u0e02\u0e35\u0e22\u0e19\u0e08\u0e14\u0e2b\u0e21\u0e32\u0e22\u0e2b\u0e32\u0e42\u0e23\u0e21",
+            "lang": "th",
+            "favorited": false,
+            "retweeted": false,
+            "retweet_count": 32690,
+            "favorite_count": 3282,
+            "reply_count": 8,
+            "quote_count": 27,
+            "quoted_status_id_str": "",
+            "quoted_status_short_url": "",
+            "quoted_status_expand_url": "",
+            "user_id_str": "266547878",
+            "user_name": "mynameisfoyfy",
+            "user_full_name": "\u0e08\u0e30\u0e40\u0e25\u0e34\u0e01\u0e40\u0e2d\u0e1f\u0e01\u0e32\u0e23\u0e4c\u0e14 ft \u0e44\u0e21\u0e48\u0e21\u0e35\u0e08\u0e32\u0e01\u0e34\u0e19",
+            "user_verified": false,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id_str": "",
+            "hashtags": [
+              "#\u0e15\u0e31\u0e4b\u0e27\u0e0a\u0e49\u0e32\u0e07"
+            ],
+            "urls": [],
+            "media": []
+          }
+        ]
+      },
+      "discussion_page": {
+        "datetime": "2021-02-19 00:00:00",
+        "continue_hours": 12,
+        "topic": "discussion",
+        "page_number": 1,
+        "sorted_by": "retweet",
+        "page_content": [
+          {
+            "created_at": "2021-02-19 09:45:39",
+            "id_str": "1362699861473173506",
+            "conversation_id_str": "1362699861473173506",
+            "full_text": "\u0e1f\u0e31\u0e07\u0e2b\u0e49\u0e2d\u0e07\u0e15\u0e31\u0e4b\u0e27\u0e0a\u0e49\u0e32\u0e07\u0e41\u0e25\u0e49\u0e27\u0e08\u0e30\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49 \u0e17\u0e2b\u0e32\u0e23\u0e40\u0e01\u0e13\u0e11\u0e4c\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e40\u0e2d\u0e32\u0e44\u0e1b\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e23\u0e31\u0e1a\u0e43\u0e0a\u0e49\u0e43\u0e19\u0e1a\u0e49\u0e32\u0e19 \u0e16\u0e49\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e2d\u0e2d\u0e01\u0e21\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2d\u0e32\u0e40\u0e07\u0e34\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e08\u0e48\u0e32\u0e22\u0e04\u0e37\u0e19\u0e43\u0e2b\u0e49\u0e19\u0e32\u0e22 \u0e19\u0e35\u0e48\u0e21\u0e31\u0e19\u0e15\u0e48\u0e32\u0e07\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e31\u0e1a\u0e17\u0e32\u0e2a\u0e2a\u0e21\u0e31\u0e22\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e44\u0e16\u0e48\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e2d\u0e48\u0e30 \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e2b\u0e35\u0e49\u0e22\u0e44\u0e23\u0e40\u0e19\u0e35\u0e48\u0e22",
+            "lang": "th",
+            "favorited": false,
+            "retweeted": false,
+            "retweet_count": 79967,
+            "favorite_count": 9596,
+            "reply_count": 52,
+            "quote_count": 256,
+            "quoted_status_id_str": "",
+            "quoted_status_short_url": "",
+            "quoted_status_expand_url": "",
+            "user_id_str": "387129428",
+            "user_name": "byarena",
+            "user_full_name": "ale",
+            "user_verified": false,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id_str": "",
+            "hashtags": [],
+            "urls": [],
+            "media": []
+          },
+          {
+            "created_at": "2021-02-19 07:05:44",
+            "id_str": "1362659618619416579",
+            "conversation_id_str": "1362659618619416579",
+            "full_text": "\u0e42\u0e23\u0e21\u0e04\u0e37\u0e2d\u0e41\u0e17\u0e49\u0e07\u0e04\u0e4c\u0e43\u0e2b\u0e49\u0e04\u0e19\u0e17\u0e31\u0e49\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e30 \u0e22\u0e49\u0e33\u0e41\u0e25\u0e49\u0e27\u0e22\u0e49\u0e33\u0e2d\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e19\u0e35\u0e49\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e21\u0e2b\u0e32\u0e01\u0e29\u0e31\u0e15\u0e23\u0e34\u0e22\u0e4c\u0e44\u0e17\u0e22",
+            "lang": "th",
+            "favorited": false,
+            "retweeted": false,
+            "retweet_count": 79620,
+            "favorite_count": 10899,
+            "reply_count": 7,
+            "quote_count": 52,
+            "quoted_status_id_str": "",
+            "quoted_status_short_url": "",
+            "quoted_status_expand_url": "",
+            "user_id_str": "3263942107",
+            "user_name": "Aroundtheton",
+            "user_full_name": "\u0e17\u0e23\u0e35",
+            "user_verified": false,
+            "in_reply_to_status_id_str": "",
+            "in_reply_to_user_id_str": "",
+            "hashtags": [],
+            "urls": [],
+            "media": []
+          }
+        ]
+      }
+    }
+  }
+}
